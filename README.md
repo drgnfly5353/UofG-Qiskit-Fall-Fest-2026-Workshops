@@ -59,6 +59,8 @@ jupyter notebook "workshops/Qiskit 101 Hands-on.ipynb"
 
 No setup? You can also preview the notebook directly on GitHub by clicking on it, or upload it to [Google Colab](https://colab.research.google.com).
 
+You may also wish to directly access it through the [Colab Integration](https://colab.research.google.com/github/drgnfly5353/UofG-Qiskit-Fall-Fest-2026-Workshops/blob/main/<notebook>.ipynb).
+
 ## Keep your API key safe
 
 Your IBM Quantum API key works like a password.
